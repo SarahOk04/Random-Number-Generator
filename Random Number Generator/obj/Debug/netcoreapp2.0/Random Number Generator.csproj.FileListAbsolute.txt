@@ -3,9 +3,9 @@ C:\Users\Shadow\source\repos\Random Number Generator\Random Number Generator\bin
 C:\Users\Shadow\source\repos\Random Number Generator\Random Number Generator\bin\Debug\netcoreapp2.0\Random Number Generator.runtimeconfig.dev.json
 C:\Users\Shadow\source\repos\Random Number Generator\Random Number Generator\bin\Debug\netcoreapp2.0\Random Number Generator.dll
 C:\Users\Shadow\source\repos\Random Number Generator\Random Number Generator\bin\Debug\netcoreapp2.0\Random Number Generator.pdb
-C:\Users\Shadow\source\repos\Random Number Generator\Random Number Generator\obj\Debug\netcoreapp2.0\Random Number Generator.csprojResolveAssemblyReference.cache
 C:\Users\Shadow\source\repos\Random Number Generator\Random Number Generator\obj\Debug\netcoreapp2.0\Random Number Generator.csproj.CoreCompileInputs.cache
 C:\Users\Shadow\source\repos\Random Number Generator\Random Number Generator\obj\Debug\netcoreapp2.0\Random Number Generator.AssemblyInfoInputs.cache
 C:\Users\Shadow\source\repos\Random Number Generator\Random Number Generator\obj\Debug\netcoreapp2.0\Random Number Generator.AssemblyInfo.cs
 C:\Users\Shadow\source\repos\Random Number Generator\Random Number Generator\obj\Debug\netcoreapp2.0\Random Number Generator.dll
 C:\Users\Shadow\source\repos\Random Number Generator\Random Number Generator\obj\Debug\netcoreapp2.0\Random Number Generator.pdb
+C:\Users\Shadow\source\repos\Random Number Generator\Random Number Generator\obj\Debug\netcoreapp2.0\Random Number Generator.csprojAssemblyReference.cache
